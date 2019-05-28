@@ -1,3 +1,3 @@
-# SNT
-Cours de SNT
+# SNT ISN ICN
+Cours sur Jupyter ...
 Pour le lycée Romain Rolland de Goussainville
